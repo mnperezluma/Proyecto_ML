@@ -17,7 +17,6 @@ Modelos que utilize para comparar valores y scores:
   + Matriz de correlación entre las variables independientes elegidas
   
   Conclusión actual:
-  Modelo con mejor perfomance: 
-  RandomForestRegressor 
-  a. Accuracy Score Promedio: 0.82
-  b. RMSLE: 0.02
+  Modelo con mejor perfomance: RandomForestRegressor 
+  * Accuracy Score Promedio: 0.82
+  * RMSLE: 0.02
