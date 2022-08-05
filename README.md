@@ -5,7 +5,11 @@ En mi primer lugar, hice un muy breve EDA. Analizé las columnas que me parecía
 como máximo. 
 A partir de esto y de hacer un breve research, supe que los modelos de regresión eran apropiados para la problemática en cuestión, es decir, predecir precios de propiedades.
 
-  Conclusión actual:
-  Modelo con mejor perfomance: RandomForestRegressor 
-  * Accuracy Score Promedio: 0.83
-  * RMSLE: 0.01
+  ## Conclusión actual
+  Modelo con mejor perfomance: 
+  * **RandomForestRegressor** 
+  * **Accuracy Score Promedio: 0.83**
+  * **RMSLE: 0.13**
+  
+  ![](/images/r2.png)
+  ![](/images/rmsle.png)
