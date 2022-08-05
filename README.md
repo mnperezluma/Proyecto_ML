@@ -8,7 +8,7 @@ A partir de esto y de hacer un breve research, supe que los modelos de regresió
   ## Conclusión actual
   Modelo con mejor perfomance: 
   * **RandomForestRegressor** 
-  * **Accuracy Score Promedio: 0.83**
+  * **R2 Promedio: 0.83**
   * **RMSLE: 0.13**
   
   ![](/images/r2.png)
